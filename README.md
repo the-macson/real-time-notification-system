@@ -78,3 +78,9 @@ docker-compose up -d
 6. Open websocket client and connect to ```localhost:4000/```
 
 ## Screenshots
+
+<img width="1275" alt="Screenshot 2024-07-09 at 9 02 18 AM" src="https://github.com/the-macson/real-time-notification-system/assets/71259159/7dbe3b35-4ad2-4ccd-8b00-03bae21c7b45">
+
+<img width="1273" alt="Screenshot 2024-07-09 at 9 02 58 AM" src="https://github.com/the-macson/real-time-notification-system/assets/71259159/c6313d66-11eb-4a56-a2bd-66d83d8071b8">
+
+<img width="1277" alt="Screenshot 2024-07-09 at 9 03 13 AM" src="https://github.com/the-macson/real-time-notification-system/assets/71259159/3215b3d3-57cd-4515-bcf0-19da888731d9">
